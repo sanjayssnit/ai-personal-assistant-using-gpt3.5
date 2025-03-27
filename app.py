@@ -129,7 +129,7 @@ if user_input:
 
     # Check for greetings
     if is_small_talk(user_input):
-        reply = "Hello! 👋 How can I assist you today with HR-related queries?"
+        reply = "Hello! How can I assist you today with HR-related queries?"
 
     else:
         # Step 1: Retrieve most relevant HR policy content
